@@ -15,5 +15,5 @@
 
 - Sorry my mistakes in English, I'm learning too.
 
-- <a href="(https://github.com/user-attachments/assets/3bc614e0-1f86-48d2-ab10-8213be81b41b)" class="nav-link">**Resume**</a>
+- <a href="https://github.com/user-attachments/assets/3bc614e0-1f86-48d2-ab10-8213be81b41b" class="nav-link">**Resume**</a>
 
