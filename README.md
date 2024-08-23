@@ -1,9 +1,3 @@
-![logo](https://github.com/user-attachments/assets/f5dbe753-3bc4-4c43-a2fd-d81188d4846d)
-
-
-
-
-
 
 ## Olá, pessoal 👋
 
