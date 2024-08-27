@@ -16,4 +16,10 @@
 - Sorry my mistakes in English, I'm learning too.
 
 - <a href="https://github.com/user-attachments/assets/3bc614e0-1f86-48d2-ab10-8213be81b41b" class="nav-link">**Currículo**</a>
-
+</br>
+<div style ="display: inline_block"><br/>
+<img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="html15" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="center" alt="html15" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</div>
