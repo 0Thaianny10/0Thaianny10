@@ -12,9 +12,10 @@
 - 📫 How to reach me: ... In my Linkedin: https://www.linkedin.com/in/thaianny-oliveira-2b191178
 - 😄 Pronouns: ... She/ Her
 - ⚡ Fun fact: ... I'm open for knew your fun facts <3
-
 - Sorry my mistakes in English, I'm learning too.
 
+ [![0Thaianny10 GitHub stats](https://github-readme-stats.vercel.app/api?username=0Thaianny10&show_icons=true&theme=tokyonight)](https://github.com/0Thaianny10/github-readme-stats)
+</br>
 - <a href="https://github.com/user-attachments/assets/3bc614e0-1f86-48d2-ab10-8213be81b41b" class="nav-link">**Currículo**</a>
 </br>
 <div style ="display: inline_block"><br/>
